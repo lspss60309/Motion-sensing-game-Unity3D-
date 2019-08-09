@@ -1,0 +1,2 @@
+Class-Path: org.OpenNI.jar
+Main-Class: org.OpenNI.Samples.SimpleViewer.SimpleViewerApplication

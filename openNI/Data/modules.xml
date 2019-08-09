@@ -1,0 +1,15 @@
+<Modules>
+    <Module path="E:\openNI\bin64\nimRecorder64.dll" />
+    <Module path="E:\openNI\bin64\nimMockNodes64.dll" />
+    <Module path="E:\openNI\bin64\nimCodecs64.dll" />
+    <Module path="E:\openNIsensor\Bin64\XnDeviceFile64.dll" />
+    <Module path="E:\openNIsensor\Bin64\XnDeviceSensorV264.dll" configDir="E:\openNIsensor\Data" />
+    <Module path="E:\openNI\NITE\Features_1_3_1\Bin64\XnVFeatures64_1_3_1.dll" configDir="E:\openNI\NITE\Features_1_3_1\Data" />
+    <Module path="E:\openNI\NITE\Features_1_4_1\Bin64\XnVFeatures64_1_4_1.dll" configDir="E:\openNI\NITE\Features_1_4_1\Data" />
+    <Module path="E:\openNI\NITE\Features_1_4_2\Bin64\XnVFeatures64_1_4_2.dll" configDir="E:\openNI\NITE\Features_1_4_2\Data" />
+    <Module path="E:\openNI\NITE\Features_1_5_2\Bin64\XnVFeatures64_1_5_2.dll" configDir="E:\openNI\NITE\Features_1_5_2\Data" />
+    <Module path="E:\openNI\NITE\Hands_1_3_1\Bin64\XnVHandGenerator64_1_3_1.dll" configDir="E:\openNI\NITE\Hands_1_3_1\Data" />
+    <Module path="E:\openNI\NITE\Hands_1_4_1\Bin64\XnVHandGenerator64_1_4_1.dll" configDir="E:\openNI\NITE\Hands_1_4_1\Data" />
+    <Module path="E:\openNI\NITE\Hands_1_4_2\Bin64\XnVHandGenerator64_1_4_2.dll" configDir="E:\openNI\NITE\Hands_1_4_2\Data" />
+    <Module path="E:\openNI\NITE\Hands_1_5_2\Bin64\XnVHandGenerator64_1_5_2.dll" configDir="E:\openNI\NITE\Hands_1_5_2\Data" />
+</Modules>
